@@ -41,7 +41,7 @@ function results()
 {
     if(computerChosen === userChosen)
     {
-        return result = 'it is a Tie!'
+        return result = 'it is a Tie! Refresh page to play again.'
     } 
     else if ( computerChosen === 'rock' && userChosen === 'paper')
         {
