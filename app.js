@@ -45,7 +45,7 @@ function results()
     } 
     else if ( computerChosen === 'rock' && userChosen === 'paper')
         {
-            return result = 'You win! You Dev-Feated Danny Devito! Refresh page to play again.''
+            return result = 'You win! You Dev-Feated Danny Devito! Refresh page to play again.'
     } 
     else if ( computerChosen === 'rock' && userChosen === 'scissors')
         {
