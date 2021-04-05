@@ -45,26 +45,26 @@ function results()
     } 
     else if ( computerChosen === 'rock' && userChosen === 'paper')
         {
-            return result = 'You win! You beat Danny!'
+            return result = 'You win! You Dev-Feated Danny Devito! Refresh page to play again.''
     } 
     else if ( computerChosen === 'rock' && userChosen === 'scissors')
         {
-            return result = 'Danny just defeated you:('
+            return result = 'Oh no! You just got Danny Dev-FEATED! Refresh page to play again.'
         }
     else if ( computerChosen === 'paper' && userChosen === 'rock')
         {
-            return result = 'Danny just defeated you:('
+            return result = 'Oh no! You just got Danny Dev-FEATED! Refresh page to play again.'
         }
     else if ( computerChosen === 'paper' && userChosen === 'scissors')
         {
-            return result = 'You win! You beat Danny!'
+            return result = 'You win! You Dev-Feated Danny Devito! Refresh page to play again.'
         }
     else if ( computerChosen === 'scissors' && userChosen === 'rock')
         {
-            return result = 'You win! You beat Danny!'
+            return result = 'You win! You Dev-Feated Danny Devito! Refresh page to play again.'
         }
     else if ( computerChosen === 'scissors' && userChosen === 'paper')
         {
-            return result = 'Danny just defeated you:('
+            return result = 'Oh no! You just got Danny Dev-FEATED! Refresh page to play again.'
         }
 }
